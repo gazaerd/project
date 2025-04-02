@@ -1,2 +1,6 @@
 my first git training, Hello world
+<<<<<<< HEAD
 Hello Amire
+=======
+Hello Gazena
+>>>>>>> 859ec027d5bece5a01f02f7aa55ad447f4df5d24
